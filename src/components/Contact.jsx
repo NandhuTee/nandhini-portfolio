@@ -26,7 +26,8 @@ export default function Contact() {
     setStatus('loading');
     setErrMsg('');
     try {
-      await axios.post('/api/contact', form);
+      await axios.post( 'https://nandhini-portfolio-server-k5f9.onrender.com/api/contact',
+  form);
       setStatus('success');
       setForm({ name: '', email: '', service: '', budget: '', message: '' });
     } catch (err) {

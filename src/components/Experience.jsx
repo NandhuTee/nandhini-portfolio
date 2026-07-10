@@ -1,5 +1,30 @@
 const experiences = [
   {
+  role: 'Junior Research and Development Programmer',
+  company: 'Chase Technologies',
+  period: 'Jul 2026 – Present',
+  location: 'Chennai, Tamil Nadu · Remote',
+  type: 'Full-time',
+  desc: 'Research and develop software solutions using Python and modern technologies. Build scalable applications, develop REST APIs, analyze and visualize data, implement machine learning prototypes, and collaborate with cross-functional teams using Git and agile development practices.',
+  skills: [
+    'Python',
+    'NumPy',
+    'Pandas',
+    'Matplotlib',
+    'Scikit-learn',
+    'TensorFlow',
+    'JavaScript',
+    'React',
+    'Node.js',
+    'Express.js',
+    'MongoDB',
+    'REST APIs',
+    'Git',
+    'Postman'
+  ],
+  highlight: true,
+},
+  {
     role: 'Web Development Intern',
     company: 'Labmentix Edtech Pvt Ltd',
     period: 'Jun 2025 – Dec 2025 · 7 mos',

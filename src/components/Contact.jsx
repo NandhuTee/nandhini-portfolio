@@ -51,7 +51,7 @@ export default function Contact() {
           </p>
           <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
             {[
-              { icon: '✉', text: 'rtnandhinitee@gmail.com' },
+              { icon: '✉', text: 'rtnandhutee@gmail.com' },
               { icon: '🔗', text: 'linkedin.com/in/nandhinitee' },
               { icon: '💻', text: 'github.com/NandhuTee' },
               { icon: '📍', text: 'Thanjavur, Tamil Nadu, India' },

@@ -5,8 +5,8 @@ const experiences = [
   period: 'Jul 2026 – Present',
   location: 'Chennai, Tamil Nadu · Remote',
   type: 'Full-time',
-  desc: 'Develop Python-based software prototypes, implement research algorithms, analyze and visualize data, review research papers, prepare technical documentation, support publications and patents, and test and validate software solutions.
-',
+  desc: `Develop Python-based software prototypes, implement research algorithms, analyze and visualize data, review research papers, prepare technical documentation, support publications and patents, and test and validate software solutions.
+`,
   skills: [
     'Python',
     'NumPy',

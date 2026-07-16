@@ -5,7 +5,8 @@ const experiences = [
   period: 'Jul 2026 – Present',
   location: 'Chennai, Tamil Nadu · Remote',
   type: 'Full-time',
-  desc: 'Research and develop software solutions using Python and modern technologies. Build scalable applications, develop REST APIs, analyze and visualize data, implement machine learning prototypes, and collaborate with cross-functional teams using Git and agile development practices.',
+  desc: 'Develop Python-based software prototypes, implement research algorithms, analyze and visualize data, review research papers, prepare technical documentation, support publications and patents, and test and validate software solutions.
+',
   skills: [
     'Python',
     'NumPy',

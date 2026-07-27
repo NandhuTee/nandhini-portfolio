@@ -93,10 +93,10 @@ export default function Contact() {
             <label style={labelStyle}>Budget Range</label>
             <select name="budget" value={form.budget} onChange={handle} style={{ ...inputStyle, appearance: 'none' }}>
               <option value="">Select budget...</option>
-              <option>Under ₹25,000</option>
-              <option>₹25,000 – ₹75,000</option>
-              <option>₹75,000 – ₹2,00,000</option>
-              <option>₹2,00,000+</option>
+              <option>Under ₹2500</option>
+              <option>₹2500 – ₹7500</option>
+              <option>₹7500 – ₹20000</option>
+              <option>₹20000+</option>
             </select>
           </div>
           <div style={{ marginBottom: '1.5rem' }}>

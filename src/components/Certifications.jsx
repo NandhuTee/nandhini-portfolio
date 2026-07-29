@@ -49,6 +49,15 @@ const certifications = [
     icon: '📜',
   },
   {
+    institution: 'NoviTech R&D Pvt Ltd',
+    degree: '30-Day Masterclass in Data Science',
+    period: 'June 2025',
+    credentialId: 'NT_B2UIUX421',
+    desc: 'Intensive UI/UX masterclass covering user research, wireframing, prototyping, and design systems in Figma.',
+    skills: ['Excel', 'Power BI', 'Python', 'R','Tableau','Panda','Numpy'],
+    icon: '📜',
+  },
+  {
     institution: 'Amazon Web Services (AWS)',
     degree: 'Amazon Web Services',
     period: 'Jul 2023',

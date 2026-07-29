@@ -62,7 +62,7 @@ const certifications = [
     degree: '30-Day Masterclass in Data Analysis',
     period: 'June 2025',
     credentialId: 'NT_B2UIUX421',
-    desc: Completed an intensive 30-day Data Analysis masterclass covering data cleaning, exploratory data analysis (EDA), data visualization, statistical analysis, dashboard creation, and business insights using Excel, SQL, Python, and Power BI.',
+    desc: 'Completed an intensive 30-day Data Analysis masterclass covering data cleaning, exploratory data analysis (EDA), data visualization, statistical analysis, dashboard creation, and business insights using Excel, SQL, Python, and Power BI.',
     skills: ['Excel', 'Power BI', 'Python', 'R','Tableau','Panda','Numpy'],
     icon: '📜',
   },
